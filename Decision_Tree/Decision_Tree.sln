@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decision_Tree", "Decision_Tree\Decision_Tree.vcxproj", "{3761A43D-4AF8-4022-8172-94D6639782AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3761A43D-4AF8-4022-8172-94D6639782AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3761A43D-4AF8-4022-8172-94D6639782AC}.Debug|Win32.Build.0 = Debug|Win32
+		{3761A43D-4AF8-4022-8172-94D6639782AC}.Release|Win32.ActiveCfg = Release|Win32
+		{3761A43D-4AF8-4022-8172-94D6639782AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
