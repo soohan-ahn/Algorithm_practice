@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: nlogn최대부분증가수열 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\abc\LOCALS~1\Temp\RSP166.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/nlogn최대부분증가수열.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\이히히\nlogn최대부분증가수열\source.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\abc\LOCALS~1\Temp\RSP166.tmp" 
+Creating temporary file "C:\DOCUME~1\abc\LOCALS~1\Temp\RSP167.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/nlogn최대부분증가수열.pdb" /debug /machine:I386 /out:"Debug/nlogn최대부분증가수열.exe" /pdbtype:sept 
+".\Debug\source.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\abc\LOCALS~1\Temp\RSP167.tmp"
+<h3>Output Window</h3>
+Compiling...
+source.cpp
+C:\이히히\nlogn최대부분증가수열\source.cpp(30) : warning C4101: 'j' : unreferenced local variable
+C:\이히히\nlogn최대부분증가수열\source.cpp(26) : warning C4715: 'bin' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+nlogn최대부분증가수열.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
